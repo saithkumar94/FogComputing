@@ -1,0 +1,12 @@
+1.<a href="download_1.jsp?f=D:\UploadedFiles\ISP-Doc1.doc">Download File</a>
+
+in bogusfile.jsp path harcoded.must be change.
+
+
+
+2.String file="C:\\UploadedFiles" 
+
+in uploadfile.jsp path harcoded.must be change.
+
+
+
